@@ -1,102 +1,106 @@
 {
-  "transactions": [
+  "movies": [
     {
-      "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "id": "1",
+      "title": "Inception",
+      "image": "https://images.unsplash.com/photo-1613679074971-91fc27180061?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGluY2VwdGlvbiUyMG1vdmllfGVufDB8fDB8fHww",
+      "rating": 8.8,
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "genre": "Science Fiction"
     },
     {
-      "id": 2,
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "id": "2",
+      "title": "The Dark Knight",
+      "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "rating": 9,
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "genre": "Action"
     },
     {
-      "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "id": "3",
+      "title": "Interstellar",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10543523_p_v8_as.jpg",
+      "rating": 8.6,
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "genre": "Adventure"
     },
     {
-      "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "id": "4",
+      "title": "The Matrix",
+      "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "rating": 8.7,
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "genre": "Science Fiction"
     },
     {
-      "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "id": "5",
+      "title": "Pulp Fiction",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "rating": 8.9,
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "genre": "Crime"
     },
     {
-      "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
+      "id": "6",
+      "title": "The Shawshank Redemption",
+      "image": "https://m.media-amazon.com/images/I/51x65RBuFnL._AC_UF894,1000_QL80_.jpg",
+      "rating": 9.3,
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "genre": "Drama"
     },
     {
-      "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
+      "id": "7",
+      "title": "The Godfather",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBSvXz9V8-FTq5pcYq174jN2dqferGxWFa0OS1o7j_54CUrRC-ui9jrRN2Q1-yXQmJadM&usqp=CAU",
+      "rating": 9.2,
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "genre": "Crime"
     },
     {
-      "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
+      "id": "8",
+      "title": "The Lord of the Rings: The Return of the King",
+      "image": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "rating": 8.9,
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "genre": "Fantasy"
     },
     {
-      "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "id": "9",
+      "title": "Fight Club",
+      "image": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+      "rating": 8.8,
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "genre": "Drama"
     },
     {
-      "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
+      "id": "10",
+      "title": "Forrest Gump",
+      "image": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+      "rating": 8.8,
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+      "genre": "Drama"
     },
     {
-      "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
+      "id": "13",
+      "title": "Schindler's List",
+      "image": "https://image.tmdb.org/t/p/original/hNFxRqok5ZI7Yb39Mxwd7t0dYiD.jpg",
+      "rating": 8.9,
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "genre": "Biography"
     },
     {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
+      "id": "228a",
+      "title": "Immaculate",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2024-03/6/22/asset/b83fa2e357c3/sub-buzz-446-1709764626-7.jpg?downsize=600:*&output-format=auto&output-quality=auto",
+      "rating": "6.4",
+      "description": "Sydney Sweeney plays Cecilia, a young nun who joins an Italian convent, only to find herself pregnant. The devout around her say she's having a miraculous pregnancy, though there seems to be more to the story than even she may know in this religious thriller."
     },
     {
-      "date": "2022-07-09",
-      "description": "Office lunch",
-      "category": "Food",
-      "amount": "2000",
-      "id": 13
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch Wednesday",
-      "category": "Food",
-      "amount": "3000",
-      "id": 14
+      "id": "58f7",
+      "title": "Shirley",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2024-03/12/14/asset/13e36e12449c/sub-buzz-457-1710253558-1.jpg?downsize=600:*&output-format=auto&output-quality=auto",
+      "rating": "7.8",
+      "description": "Regina King is stateswoman Shirley Chisholm in this biopic chronicling the New York politician who was already living history as the first Black congresswoman when she made an unprecedented bid for the presidency in 1972."
     }
   ]
 }
